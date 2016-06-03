@@ -1,0 +1,17 @@
+{
+  "name": "wordclass",
+  "version": "0.0.1",
+  "description": "https://github.com/hola/challenge_word_classifier solution by Nikita Karpenkov",
+  "main": "wordClass.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "follow-redirects": "^0.1.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Nikita Karpenkov",
+  "license": "MIT"
+}
